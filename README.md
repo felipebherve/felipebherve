@@ -6,6 +6,8 @@ I'm a career changer moving into software development. I come from years in fina
 
 🔗 **Portfolio:** [felipebherve.github.io](https://felipebherve.github.io/) · 📄 [Résumé](https://felipebherve.github.io/HerveWebDev/Projetos/Curriculo/index.html) · 💼 [LinkedIn](https://www.linkedin.com/in/felipe-bruno-hervé-771338179) · 📫 felipebherve@gmail.com
 
+⭐ **Latest project: [FALAVADO, the Thinkers' Table](https://felipebherve.github.io/falavado/)**, launched to the public on 13 October 2026. You write a thought and 20 thinkers (philosophers, scientists and writers) answer it from their own work, with the jester Triboulet serving the table. Free to use, not for sale (PolyForm Noncommercial for the code, CC BY-NC-ND for texts and images). [Repository](https://github.com/felipebherve/falavado).
+
 Below is the map of what I've studied so far, in the order I studied it.
 
 | # | Repository | What it is | Main tech | Status |
@@ -18,6 +20,7 @@ Below is the map of what I've studied so far, in the order I studied it.
 | 6 | [`techtinga-api`](https://github.com/felipebherve/techtinga-api) | Final challenge: projects and tasks REST API with CSV import and reports | Python, Django, DRF | Completed (Aug 2026) |
 | 7 | [`java-uniritter-ads`](https://github.com/felipebherve/java-uniritter-ads) | Algorithms & Programming, first course of my ADS degree (UniRitter, distance learning) | Java | In progress (2026) |
 | 8 | [`felipebherve.github.io`](https://github.com/felipebherve/felipebherve.github.io) | Source of my current portfolio site | HTML, CSS, JS | Published |
+| 9 | [`falavado`](https://github.com/felipebherve/falavado) | **FALAVADO, the Thinkers' Table** ([live](https://felipebherve.github.io/falavado/)): a simulated conversation among 20 thinkers, with the jester Triboulet serving the table. PT/EN/ES, accessibility (dyslexia font, colour-blind mode, text reader), narrated examples and a Claude skill. Static site, no server, everyone uses their own AI account. Built with Claude | HTML, CSS, JS, GitHub Pages | Launched 13 Oct 2026 (latest project) |
 
 ## How I study
 
