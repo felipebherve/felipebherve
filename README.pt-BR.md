@@ -6,6 +6,8 @@ Estou fazendo transição de carreira para desenvolvimento de software. Venho de
 
 🔗 **Portfólio:** [felipebherve.github.io](https://felipebherve.github.io/) · 📄 [Currículo](https://felipebherve.github.io/HerveWebDev/Projetos/Curriculo/index.html) · 💼 [LinkedIn](https://www.linkedin.com/in/felipe-bruno-hervé-771338179) · 📫 felipebherve@gmail.com
 
+⭐ **Projeto mais recente: [FALAVADO, a Mesa dos Pensadores](https://felipebherve.github.io/falavado/)**, lançado ao público em 13 de outubro de 2026. A pessoa escreve um pensamento e 20 pensadores (filósofos, cientistas e escritores) respondem a partir da própria obra, com o bufão Triboulet servindo a mesa. Uso gratuito e venda proibida (PolyForm Noncommercial no código, CC BY-NC-ND nos textos e imagens). [Repositório](https://github.com/felipebherve/falavado).
+
 Abaixo está o mapa do que já estudei, na ordem em que estudei.
 
 | # | Repositório | O que é | Tecnologias | Situação |
@@ -18,6 +20,7 @@ Abaixo está o mapa do que já estudei, na ordem em que estudei.
 | 6 | [`techtinga-api`](https://github.com/felipebherve/techtinga-api) | Desafio final: API REST de projetos e tarefas com importação de CSV e relatórios | Python, Django, DRF | Concluído (ago/2026) |
 | 7 | [`java-uniritter-ads`](https://github.com/felipebherve/java-uniritter-ads) | Algoritmos e Programação, primeira disciplina do meu curso de ADS (UniRitter, EAD) | Java | Em andamento (2026) |
 | 8 | [`felipebherve.github.io`](https://github.com/felipebherve/felipebherve.github.io) | Código-fonte do meu portfólio atual | HTML, CSS, JS | Publicado |
+| 9 | [`falavado`](https://github.com/felipebherve/falavado) | **FALAVADO, a Mesa dos Pensadores** ([no ar](https://felipebherve.github.io/falavado/)): conversa simulada entre 20 pensadores, com o bufão Triboulet servindo a mesa. PT/EN/ES, acessibilidade (letra para dislexia, modo para daltonismo, leitor de texto), exemplos narrados e skill para o Claude. Site estático, sem servidor, cada pessoa usa a própria conta de IA. Feito com Claude | HTML, CSS, JS, GitHub Pages | Lançado em 13/out/2026 (projeto mais recente) |
 
 ## Como eu estudo
 
